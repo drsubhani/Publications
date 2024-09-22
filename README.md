@@ -1,2 +1,2 @@
 # Publications
-Peer reviewed Articles
+Peer-reviewed Articles
